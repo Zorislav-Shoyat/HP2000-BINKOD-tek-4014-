@@ -32,3 +32,5 @@ Login onto the machine as instructed by the greeting text. If you would like to 
 The Virtual Multimedia Centre of the Croatian School Museum can be reached at: http://grgur.irb.hr/ViMMC/en/. There is HP2000 TSB documentation and other historical things.
 
 The emulation is run on grampus, Intel 2 processor * 1.4GHz Intel Pentium 3, 1GiB RAM, cca 2004, and melior, Sun Enterprise 220R Server, 450MHz UltraSPARC-II, 512MiB, year 1999.
+
+IMPORTANT: If the HP system does not react on your telnet command, close the telnet connection and try again. It happens sometimes.
